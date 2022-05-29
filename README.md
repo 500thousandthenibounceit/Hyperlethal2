@@ -1,2 +1,3 @@
 # Hyperlethal 2.22
-# Made by the company that made tiktok!
+# Basically, A 1.12.2 hacked client with amazing features.
+# Without hwid and fully useable without paying a dime.
